@@ -15,7 +15,7 @@ from math import sqrt
 opj = os.path.join
 
 
-image_root = r"C:/Users/akash/Documents/DATA/kitti_tiny"
+image_root = r"./kitti_tiny"
 
 
 class Transform(object):

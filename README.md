@@ -6,6 +6,7 @@ The main aim of this repo is to understand the centerNet architecture and this i
 
 
 The individual modules can be runned individually for example
+
 For model
 `python model.py`
 
